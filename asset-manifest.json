@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cc.kai/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cc.kai/static/js/main.d5de7a77.chunk.js",
+    "main.js.map": "/cc.kai/static/js/main.d5de7a77.chunk.js.map",
+    "runtime-main.js": "/cc.kai/static/js/runtime-main.50917677.js",
+    "runtime-main.js.map": "/cc.kai/static/js/runtime-main.50917677.js.map",
+    "static/js/2.fcc5dea9.chunk.js": "/cc.kai/static/js/2.fcc5dea9.chunk.js",
+    "static/js/2.fcc5dea9.chunk.js.map": "/cc.kai/static/js/2.fcc5dea9.chunk.js.map",
+    "index.html": "/cc.kai/index.html",
+    "precache-manifest.e9df83b4c078c35653205dc350115ec2.js": "/cc.kai/precache-manifest.e9df83b4c078c35653205dc350115ec2.js",
+    "service-worker.js": "/cc.kai/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cc.kai/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fcc5dea9.chunk.js.LICENSE.txt": "/cc.kai/static/js/2.fcc5dea9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cc.kai/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50917677.js",
+    "static/js/2.fcc5dea9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d5de7a77.chunk.js"
+  ]
+}
